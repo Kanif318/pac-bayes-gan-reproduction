@@ -9,6 +9,7 @@
 ## 動作環境
 
 - [uv](https://github.com/astral-sh/uv) パッケージマネージャを使用
+- CUDA 12.1のGPU環境で動作させた
 
 ## セットアップと実行方法
 
