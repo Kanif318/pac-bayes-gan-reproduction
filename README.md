@@ -1,6 +1,6 @@
 # PAC-Bayesian Generalization Bounds for Adversarial Generative Models 再現コード
 
-このリポジトリは，論文「PAC-Bayesian Generalization Bounds for Adversarial Generative Models」の再現実験コードです．
+このリポジトリは，大学院講義の期末課題にて，論文「PAC-Bayesian Generalization Bounds for Adversarial Generative Models」の再現実験を試みたコードです．
 
 ## 論文
 
